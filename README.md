@@ -1,3 +1,13 @@
+## My Updates:
+Function script lines added to cachematrix.R
+I tend to use use big variable names... 
+x, y, z are cool when doing simple things on the command line,
+but I often get confused when crafting functions, 
+especially when the variables are very similar in nature, so I changed "x"
+out of the original template the Professor gave us to work with for
+something more meaningful to me.
+
+
 ### Introduction
 
 This second programming assignment will require you to write an R
